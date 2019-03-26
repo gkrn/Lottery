@@ -7,6 +7,8 @@ Solidity is known as a contract-based, high-level programming language. This pla
 What is Solidity, Programming language for Ethereum Smart Contracts? from Blockchain Council?
 
 This typed programming languages will help and do the checking at run-time as opposed to Compile-time. This platform also supports inheritance in object-oriented programming, inheritance enables new objects to take on the properties of existing objects. A class that is used as the basis for inheritance is called a superclass or base class. A class that inherits from a superclass is called a subclass or derived class. As you will see, it is possible to create contracts for voting, crowd funding, blind auctions, multi-signature wallets and more.
+
+
 This is an Lottery Smart Contract.
 It consists of a manager and the players in the lottery and the winning player is transferred all the ETH funds in his ETH wallet.
  
